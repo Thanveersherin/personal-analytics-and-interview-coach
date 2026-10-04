@@ -1,0 +1,10 @@
+# secrets
+.env
+
+# personal data
+data/personal_*.csv
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+venv/
